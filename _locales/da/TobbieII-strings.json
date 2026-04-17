@@ -7,12 +7,12 @@
   "TobbieII.LBlock|block": "venstre IR sensor større end %thresholdL",
   "TobbieII.forward|block": "Gå fremad",
   "TobbieII.backward|block": "Gå baglæns",
-  "TobbieII.stopWalk|block": "Stop med at gå",
-  "TobbieII.rightWard|block": "Roter til højre",
-  "TobbieII.leftWard|block": "Roter til venstre",
-  "TobbieII.stopTurn|block": "Stop med at rotere",
+  "TobbieII.stopwalk|block": "Stop med at gå",
+  "TobbieII.rightWwrd|block": "Roter til højre",
+  "TobbieII.leftward|block": "Roter til venstre",
+  "TobbieII.stopturn|block": "Stop med at rotere",
   "TobbieII.vibrate|block": "Stamp med foden %time gange",
   "TobbieII.shake_head|block": "Ryst med hovedet %time gange",
   "TobbieII.dance|block": "Dans %time gange",
-  "TobbieII.drawFace|block": "Vis ansigtsudtryk %RX_Data (APP-specifik)"
+  "TobbieII.drawface|block": "Vis ansigtsudtryk %RX_Data (APP-specifik)"
 }
