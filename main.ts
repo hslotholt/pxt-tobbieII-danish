@@ -346,6 +346,6 @@ namespace TobbieII {
                 PLOT_DATA = PLOT_DATA / 2
             }
         }
-    }      
+    }
 }
 
