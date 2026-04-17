@@ -8,7 +8,7 @@
   "TobbieII.forward|block": "Gå fremad",
   "TobbieII.backward|block": "Gå baglæns",
   "TobbieII.stopwalk|block": "Stop med at gå",
-  "TobbieII.rightWwrd|block": "Roter til højre",
+  "TobbieII.rightward|block": "Roter til højre",
   "TobbieII.leftward|block": "Roter til venstre",
   "TobbieII.stopturn|block": "Stop med at rotere",
   "TobbieII.vibrate|block": "Stamp med foden %time gange",
